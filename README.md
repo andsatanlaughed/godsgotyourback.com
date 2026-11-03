@@ -43,7 +43,7 @@ classes) or `src/input.css`. **A change that isn't rebuilt won't show up.**
 
 Same DNA as the rest of the network — Cormorant Garamond (display serif) and
 Inter (body), red headings between thin gold rules, the ✦ gold fleuron,
-`.gold-divider`. No Caveat script face; that's gramps.top's voice.
+`.gold-divider`. No Caveat script face; that's gramps.me's voice.
 
 Its own face is the **numerals**. This book is built out of counts, so the
 counts are the layout: `.tally` / `.tally-num` for the 100 / 12 / 12 / 4 grid
@@ -82,7 +82,7 @@ Two things to keep:
 
 The dark strip above the header (`.build-notice`) says the site is a work in
 progress. **Delete that `<div>` when the book launches** — the same strip is on
-gramps.top and godrepurposesskeletons.com.
+gramps.me and godrepurposesskeletons.com.
 
 ## Images
 
